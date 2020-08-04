@@ -1,0 +1,46 @@
+{
+  "name": "sector7557",
+  "version": "0.0.5",
+  "description": "p2p text-based MUD, using cabal for p2p transport",
+  "main": "game.js",
+  "bin": {
+    "sector7557": "game.js"
+  },
+  "dependencies": {
+    "ansi-diff-stream": "^1.2.1",
+    "cabal-client": "^6.1.4",
+    "chalk": "^4.1.0",
+    "cli-manual": "^1.0.1",
+    "kappa-core": "^6.0.0",
+    "kappa-view-level": "^2.1.0",
+    "level-mem": "^5.0.1",
+    "minimist": "^1.2.5",
+    "neat-input": "^1.11.1",
+    "subleveldown": "^5.0.1",
+    "txt-blit": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cblgh/sector7557.git"
+  },
+  "keywords": [
+    "p2p",
+    "cabal",
+    "mud",
+    "mmo",
+    "game",
+    "cli",
+    "amazing",
+    "wow"
+  ],
+  "author": "cblgh",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cblgh/dungeons/issues"
+  },
+  "homepage": "https://github.com/cblgh/dungeons#readme"
+}
