@@ -12,7 +12,7 @@
     "chalk": "^4.1.0",
     "cli-manual": "^1.0.1",
     "kappa-core": "^6.0.0",
-    "kappa-view-level": "^2.1.0",
+    "kappa-view-level": "^2.2.0",
     "level-mem": "^5.0.1",
     "minimist": "^1.2.5",
     "neat-input": "^1.11.1",
