@@ -1,6 +1,6 @@
 {
   "name": "sector7557",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "p2p text-based MUD, using cabal for p2p transport",
   "main": "game.js",
   "bin": {
