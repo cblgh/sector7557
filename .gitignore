@@ -2,7 +2,6 @@
 package-lock.json
 node_modules/
 *.css
-*.txt
 *.vim
 *bundle*.js
 /html/*.html
